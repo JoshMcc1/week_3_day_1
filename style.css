@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    background-color: white;
+    font-family: 'Oxygen', sans-serif;
+}
+
+body>footer>p {
+    padding: 22px;
+    background-color: dodgerblue;
+    color: white;
+    text-align: center;
+}
+
+body>header {
+    padding: 18px;
+    background-color: dodgerblue;
+    color: white;
+
+}
+
+
+nav>ul {
+    list-style: none;
+
+}
+
+nav>ul>li>a {
+    color: black;
+
+}
+
+body>main>article {
+    width: 70%;
+    margin: auto;
+
+}
+
+.button {
+    background-color: transparent;
+    border: 1px solid dodgerblue;
+
+}
+
+.container {
+    width: 200px;
+    height: 120px;
+}
+
+/* Resize images */
+.container img {
+    width: 100%;
+    height: auto;
+}
+
+#breaking-news {
+    text-align: justify;
+}
+
+#right-align {
+    float: right;
+}
+
+hgroup {
+    text-align: center;
+}
+
+#left-align {
+    padding: 16px;
+    float: left;
+}
+
+#hor-ul li {
+    display: inline;
+    float: right;
+}
+
+section {
+    padding: 20px
+}
